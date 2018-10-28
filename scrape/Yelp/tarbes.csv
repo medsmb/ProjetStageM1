@@ -1,0 +1,26 @@
+city,rank,business_name,review_count,global categorie,categories,rating,price_range,address,latitude,longitude,reservation_available,accept_pickup,url
+"Tarbes,65000","1 
+
+
+        
+",Couleur Cafe,12,Coffee & Tea,"Coffee & Tea,Cafes",4.5,0,"41 rue Brauhauban 65000 Tarbes France Tarbes,65000",43.23286460000001,0.0772136,False,False,https://www.yelp.com/biz/couleur-caf%C3%A9-tarbes-4?osq=Coffee
+"Tarbes,65000","2 
+
+
+        
+",Brazil Cafe,1,Coffee & Tea,"Tea Rooms,Bagels,Coffee & Tea",4.0,0,"24 rue Brauhauban 65000 Tarbes France Tarbes,65000",43.2328673,0.07608609999999999,False,False,https://www.yelp.com/biz/brazil-caf%C3%A9-tarbes-4?osq=Coffee
+"Tarbes,65000","3 
+
+
+        
+",Buvette du jardin Massey,7,Coffee & Tea,"Breakfast & Brunch,Cafes",4.5,0,"32 Rue Massey 65000 Tarbes France Tarbes,65000",43.2380358,0.07387339999999999,False,False,https://www.yelp.com/biz/buvette-du-jardin-massey-tarbes?osq=Coffee
+"Tarbes,65000","4 
+
+
+        
+",Le Big Ben,2,Coffee & Tea,"Bars,Cafes",4.0,0,"7 Place de Verdun 65000 Tarbes France Tarbes,65000",43.2330449,0.0735157,False,False,https://www.yelp.com/biz/le-big-ben-tarbes-2?osq=Coffee
+"Tarbes,65000","5 
+
+
+        
+",Le Francais,4,Coffee & Tea,"Bars,Breakfast & Brunch,Cafes",4.0,2,"17 Rue Brauhauban 65000 Tarbes France Tarbes,65000",43.2330428,0.0758812,False,False,https://www.yelp.com/biz/le-fran%C3%A7ais-tarbes?osq=Coffee

@@ -1,0 +1,21 @@
+city,rank,business_name,review_count,categories,rating,price_range,address,latitude,longitude,reservation_available,accept_pickup,url
+"Pau,64000","1 
+
+
+        
+",Oc'Coffee,1,Coffee & Tea,Coffee & Tea,5.0,1,"18 Boulevard Recteur Jean Sarrailh Pau,64000",43.3112059,-0.3666937,False,False,https://www.yelp.com/biz/oc-coffee-pau?osq=Coffee
+"Pau,64000","2 
+
+
+        
+",Pau's Cafe,4,Coffee & Tea,"Coffee & Tea,Delicatessen",5.0,2,"34 rue du Marechal Joffre Pau,64000",43.3112059,-0.3666937,False,False,https://www.yelp.com/biz/paus-caf%C3%A9-pau-3?osq=Coffee
+"Pau,64000","3 
+
+
+        
+",french coffee shop,4,Coffee & Tea,"Coffee & Tea,Internet Cafes,Sandwiches",4.5,0,"Centre Bosquet Place d'Espagne Pau,64000",43.29848399999999,-0.36644,False,False,https://www.yelp.com/biz/french-coffee-shop-pau?osq=Coffee
+"Pau,64000","4 
+
+
+        
+",Theoucafe,2,Coffee & Tea,Coffee & Tea,4.5,0,"Avenue Louis Sallenave Pau,64000",43.3154844,-0.3604798,False,False,https://www.yelp.com/biz/th%C3%A9oucaf%C3%A9-pau-4?osq=Coffee
